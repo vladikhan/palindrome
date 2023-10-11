@@ -12,3 +12,5 @@ function isPalindrome(numberAsString) {
 }
 console.log(isPalindrome('10001'))
 console.log(isPalindrome('111'))
+console.log(isPalindrome('12345'))
+console.log(isPalindrome('101010001'))
